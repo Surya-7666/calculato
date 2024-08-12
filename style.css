@@ -1,0 +1,22 @@
+
+.container{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    padding: 20px   ;
+    margin: 0 3px;
+}
+.row{
+    margin: 8px 0;
+}
+.input{
+    margin: 0;
+   padding: 7px 45px;
+   
+    
+}
